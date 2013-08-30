@@ -1,0 +1,36 @@
+{
+  "name": "error-adapter",
+  "version": "0.0.0",
+  "description": "A simple API for generating Error objects. It currently wraps Errs (http://github.com/flatiron/errs.git), but may not in the future.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/greglearns/error-adapter.git"
+  },
+  "keywords": [
+    "errs",
+    "errors",
+    "utilities"
+  ],
+  "author": [
+    "greglearns",
+    "nisaacson"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greglearns/error-adapter/issues"
+  },
+  "dependencies": {
+    "errs": "~0.2.4"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.1"
+  }
+}
