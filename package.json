@@ -1,6 +1,6 @@
 {
   "name": "error-adapter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple API for generating Error objects. It currently wraps Errs (http://github.com/flatiron/errs.git), but may not in the future.",
   "main": "index.js",
   "directories": {
