@@ -1,6 +1,6 @@
 # error-adapter
 
-[![Build Status](https://travis-ci.org/greglearns/error-adapter.png?branch=v0.0.4)](https://travis-ci.org/greglearns/error-adapter)
+[![Build Status](https://travis-ci.org/greglearns/error-adapter.png?branch=master)](https://travis-ci.org/greglearns/error-adapter)
 
 A simple API for generating Error objects. It currently wraps Errs (http://github.com/flatiron/errs.git), but may not in the future.
 
